@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Assignment3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{465625B9-CA78-4A88-8BD0-BB35FAFDA519}|Assignment3.csproj|d:\\c#\\assignment3\\exercise2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465625B9-CA78-4A88-8BD0-BB35FAFDA519}|Assignment3.csproj|solutionrelative:exercise2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465625B9-CA78-4A88-8BD0-BB35FAFDA519}|Assignment3.csproj|d:\\c#\\assignment3\\exercise2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465625B9-CA78-4A88-8BD0-BB35FAFDA519}|Assignment3.csproj|solutionrelative:exercise2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465625B9-CA78-4A88-8BD0-BB35FAFDA519}|Assignment3.csproj|d:\\c#\\assignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465625B9-CA78-4A88-8BD0-BB35FAFDA519}|Assignment3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465625B9-CA78-4A88-8BD0-BB35FAFDA519}|Assignment3.csproj|d:\\c#\\assignment3\\exercise1\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465625B9-CA78-4A88-8BD0-BB35FAFDA519}|Assignment3.csproj|solutionrelative:exercise1\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465625B9-CA78-4A88-8BD0-BB35FAFDA519}|Assignment3.csproj|d:\\c#\\assignment3\\exercise1\\departmentmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465625B9-CA78-4A88-8BD0-BB35FAFDA519}|Assignment3.csproj|solutionrelative:exercise1\\departmentmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465625B9-CA78-4A88-8BD0-BB35FAFDA519}|Assignment3.csproj|d:\\c#\\assignment3\\exercise1\\salaryemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465625B9-CA78-4A88-8BD0-BB35FAFDA519}|Assignment3.csproj|solutionrelative:exercise1\\salaryemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465625B9-CA78-4A88-8BD0-BB35FAFDA519}|Assignment3.csproj|d:\\c#\\assignment3\\exercise1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465625B9-CA78-4A88-8BD0-BB35FAFDA519}|Assignment3.csproj|solutionrelative:exercise1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465625B9-CA78-4A88-8BD0-BB35FAFDA519}|Assignment3.csproj|d:\\c#\\assignment3\\exercise1\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465625B9-CA78-4A88-8BD0-BB35FAFDA519}|Assignment3.csproj|solutionrelative:exercise1\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment3\\Exercise2\\Main.cs",
+              "RelativeDocumentMoniker": "Exercise2\\Main.cs",
+              "ToolTip": "D:\\C#\\Assignment3\\Exercise2\\Main.cs",
+              "RelativeToolTip": "Exercise2\\Main.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:41:49.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment3\\Exercise2\\Student.cs",
+              "RelativeDocumentMoniker": "Exercise2\\Student.cs",
+              "ToolTip": "D:\\C#\\Assignment3\\Exercise2\\Student.cs",
+              "RelativeToolTip": "Exercise2\\Student.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAFYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T02:19:20.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalaryEmployee.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment3\\Exercise1\\SalaryEmployee.cs",
+              "RelativeDocumentMoniker": "Exercise1\\SalaryEmployee.cs",
+              "ToolTip": "D:\\C#\\Assignment3\\Exercise1\\SalaryEmployee.cs",
+              "RelativeToolTip": "Exercise1\\SalaryEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:00:57.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HourlyEmployee.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment3\\Exercise1\\HourlyEmployee.cs",
+              "RelativeDocumentMoniker": "Exercise1\\HourlyEmployee.cs",
+              "ToolTip": "D:\\C#\\Assignment3\\Exercise1\\HourlyEmployee.cs",
+              "RelativeToolTip": "Exercise1\\HourlyEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:39:49.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment3\\Exercise1\\Employee.cs",
+              "RelativeDocumentMoniker": "Exercise1\\Employee.cs",
+              "ToolTip": "D:\\C#\\Assignment3\\Exercise1\\Employee.cs",
+              "RelativeToolTip": "Exercise1\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:28:43.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment3\\Exercise1\\Department.cs",
+              "RelativeDocumentMoniker": "Exercise1\\Department.cs",
+              "ToolTip": "D:\\C#\\Assignment3\\Exercise1\\Department.cs",
+              "RelativeToolTip": "Exercise1\\Department.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:01:00.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentManage.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment3\\Exercise1\\DepartmentManage.cs",
+              "RelativeDocumentMoniker": "Exercise1\\DepartmentManage.cs",
+              "ToolTip": "D:\\C#\\Assignment3\\Exercise1\\DepartmentManage.cs",
+              "RelativeToolTip": "Exercise1\\DepartmentManage.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAEwBkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:23:53.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Assignment3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C#\\Assignment3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:40:28.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
